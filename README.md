@@ -2,9 +2,10 @@
 Maven project to demonstrate money trasnfer api using REST
 
 #Usage
+
 The application can be started by running App.java class.
 This wil start the jetty server at Port:8888
-Data is tored in memory from local file storage
+Data is stored in memory from local file storage
 
 #Endpoints
 
